@@ -53,7 +53,6 @@ education:
   - area: Information and Communication Engineering
     institution: MediaBrain Lab in SJTU
     date_start: 2023-09-01
-    date_end: 2028-06-30(expected)
     summary: |
       Supervised by Prof. Siheng Chen and continually striving for improvement.
 
