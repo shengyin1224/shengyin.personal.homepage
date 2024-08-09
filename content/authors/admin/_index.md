@@ -90,23 +90,26 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: National Scholarship, 2022
-    date: '2022-12'
+    date: '2022-12-11'
     awarder: Ministry of Education of the People's Republic of China
     summary: |
       3 out of 107
   - title: National Scholarship, 2021
-    date: '2021-12'
+    date: '2021-12-11'
     awarder: Ministry of Education of the People's Republic of China
     summary: |
       2 out of 107
   - title: Shanghai Outstanding Graduates, 2023
-    date: '2023-06'
+    date: '2023-06-21'
     awarder: Shanghai Municipal Education Commission
-  - title: Shanghai Jiao Tong University Class B Scholarship, 2020&2021
-    date: '2021-12/2022-12'
+  - title: Shanghai Jiao Tong University Class B Scholarship, 2021
+    date: '2022-12-11'
+    awarder: Shanghai Jiao Tong University
+  - title: Shanghai Jiao Tong University Class B Scholarship, 2020
+    date: '2021-12-11'
     awarder: Shanghai Jiao Tong University
   - title: Shanghai Jiao Tong University Class C Scholarship, 2019
-    date: '2020-12'
+    date: '2020-12-11'
     awarder: Shanghai Jiao Tong University
 ---
 
